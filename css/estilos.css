@@ -1,0 +1,9 @@
+body{
+	background-color: red;
+}
+
+li{
+	background-color: #fff;
+	border-color: #000;
+	border-spacing: 15px;
+}
